@@ -47,7 +47,7 @@
 
 <div>
    <a href="https://github.com/mandybang">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspoquiviqui&layout=compact&langs_count=6&theme=default"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspoquiviqui&layout=compact&langs_count=6&theme=default"/>
    <!img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheuspoquiviqui&theme=dark_icons=true"/>
 </div>
 
